@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RecicleViewGustavo</string>
+    <string-array name="exemplo">
+        <item>teste1</item>
+        <item>teste2</item>
+        <item>teste3</item>
+        <item>teste4</item>
+        <item>teste5</item>
+        <item>teste6</item>
+        <item>teste7</item>
+        <item>teste8</item>
+        <item>teste9</item>
+        <item>teste10</item>
+        <item>teste11</item>
+        <item>teste12</item>
+        <item>teste13</item>
+        <item>teste14</item>
+        <item>teste15</item>
+        <item>teste16</item>
+        <item>teste17</item>
+        <item>teste18</item>
+        <item>teste19</item>
+        <item>teste20</item>
+    </string-array>
+</resources>
